@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_","ns":"seller-development.customer-pages"}],"uuid":"35a18c425cbb4a0086f1d7eac80131b2"}

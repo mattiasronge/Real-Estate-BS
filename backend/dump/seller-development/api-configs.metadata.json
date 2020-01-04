@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_","ns":"seller-development.api-configs"}],"uuid":"ca66c5d098ff4e0e836065995bff00ac"}
