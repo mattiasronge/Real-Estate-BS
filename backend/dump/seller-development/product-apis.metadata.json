@@ -1,1 +1,1 @@
-{"options":{},"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_","ns":"seller-development.product-apis"}],"uuid":"3dd46216ed344c718d6f15f567fb13f5"}
+{"options":{},"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_","ns":"seller-development.product-apis"}],"uuid":"86e223f821774ca482495599302abfd1"}
